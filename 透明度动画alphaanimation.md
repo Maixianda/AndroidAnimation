@@ -1,4 +1,4 @@
-# 缩放动画\(ScaleAnimation\)
+# 透明度动画\(AlphaAnimation\)
 
 ## xml标签----&lt;translate&gt;
 

@@ -1,4 +1,4 @@
-# 缩放动画\(ScaleAnimation\)
+# 旋转动画\(RotateAnimation\)
 
 ## xml标签----&lt;translate&gt;
 
