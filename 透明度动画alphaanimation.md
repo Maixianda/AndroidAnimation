@@ -1,6 +1,6 @@
 # 透明度动画\(AlphaAnimation\)
 
-## xml标签----&lt;translate&gt;
+## xml标签----&lt;alpha&gt;
 
 
 
