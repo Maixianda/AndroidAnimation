@@ -1,3 +1,9 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [view动画](chapter1.md)
+    * [平移动画\(TranslateAnimation\)](平移动画translateanimation.md)
+    * [旋转动画\(ScaleAnimation\)](旋转动画scaleanimation.md)
+    * 旋转动画\(RotateAnimation\)
+    * 透明度动画\(AlphaAnimation\)
+
